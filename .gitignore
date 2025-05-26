@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+env/
+venv/
+*.egg-info/
+
+# Log and temp files
+*.log
+*.tmp
